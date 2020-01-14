@@ -2,90 +2,14 @@
 "users" :
 [{
   "id": 1,
-  "first_name": "Faydra",
-  "last_name": "Bakewell"
+  "type": "Prospect",
+  "total": "3"
 }, {
   "id": 2,
-  "first_name": "Cathyleen",
-  "last_name": "Ferrey"
+  "type": "Not Prospect",
+  "total": "5"
 }, {
   "id": 3,
-  "first_name": "Joline",
-  "last_name": "Dunbobbin"
-}, {
-  "id": 4,
-  "first_name": "Aryn",
-  "last_name": "Benoist"
-}, {
-  "id": 5,
-  "first_name": "Lloyd",
-  "last_name": "Deevey"
-}, {
-  "id": 6,
-  "first_name": "Ralph",
-  "last_name": "McShee"
-}, {
-  "id": 7,
-  "first_name": "Melany",
-  "last_name": "Shellum"
-}, {
-  "id": 8,
-  "first_name": "Norrie",
-  "last_name": "Ortmann"
-}, {
-  "id": 9,
-  "first_name": "Jeanine",
-  "last_name": "Cheston"
-}, {
-  "id": 10,
-  "first_name": "Winifred",
-  "last_name": "Cosley"
-}, {
-  "id": 11,
-  "first_name": "Neile",
-  "last_name": "Traice"
-}, {
-  "id": 12,
-  "first_name": "Horst",
-  "last_name": "Hedge"
-}, {
-  "id": 13,
-  "first_name": "Opaline",
-  "last_name": "Widdop"
-}, {
-  "id": 14,
-  "first_name": "Therine",
-  "last_name": "Benedidick"
-}, {
-  "id": 15,
-  "first_name": "Sheree",
-  "last_name": "Moakes"
-}, {
-  "id": 16,
-  "first_name": "Kylila",
-  "last_name": "Haston"
-}, {
-  "id": 17,
-  "first_name": "Jannelle",
-  "last_name": "Lovelace"
-}, {
-  "id": 18,
-  "first_name": "Judah",
-  "last_name": "Whitfeld"
-}, {
-  "id": 19,
-  "first_name": "Madella",
-  "last_name": "De La Haye"
-}, {
-  "id": 20,
-  "first_name": "Auberta",
-  "last_name": "Buckleigh"
-}, {
-  "id": 21,
-  "first_name": "Dredi",
-  "last_name": "Bodiam"
-}, {
-  "id": 22,
-  "first_name": "Coletta",
-  "last_name": "Brownsall"
+  "type": "SPK",
+  "total": "6"
 }]}
