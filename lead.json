@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Faydra",
+      "last_name": "Bakewell"
+    },
+    {
+      "id": 2,
+      "first_name": "Cathyleen",
+      "last_name": "Ferrey"
+    },
+    {
+      "id": 3,
+      "first_name": "Joline",
+      "last_name": "Dunbobbin"
+    },
+    {
+      "id": 4,
+      "first_name": "Aryn",
+      "last_name": "Benoist"
+    },
+  ]
+}
