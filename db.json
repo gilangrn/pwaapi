@@ -80,5 +80,98 @@
             "address": "01 Beilfuss Parkway",
             "status": "Leptoptilus dubius"
         }
+    ],
+  "store": 
+    [
+        {
+            "id": "e9c6693e-6497-469c-b1cb-9fbd7a8132d2",
+            "name_store": "Weissnat-Cremin",
+            "latitude": 22.5674949,
+            "longitude": 58.6858709,
+            "phone": "725-928-5482",
+            "open_hours": "9:00",
+            "close_hours": "16:08"
+        }, 
+        {
+            "id": "ad5bc8fb-1ae8-4e14-a212-f187e81b2d1b",
+            "name_store": "Goyette Group",
+            "latitude": -1.8844563,
+            "longitude": -48.7655306,
+            "phone": "760-272-3755",
+            "open_hours": "9:26",
+            "close_hours": "16:37"
+        }, 
+        {
+            "id": "acb14601-16a6-4f98-acc1-dad8440ec284",
+            "name_store": "Simonis-Schowalter",
+            "latitude": 41.3307129,
+            "longitude": -8.5444494,
+            "phone": "489-375-9379",
+            "open_hours": "8:19",
+            "close_hours": "16:29"
+        }, 
+        {
+            "id": "722daa5d-7f20-4e49-8ba8-1b1a689eb76b",
+            "name_store": "Considine LLC",
+            "latitude": 50.3901526,
+            "longitude": 106.1051454,
+            "phone": "751-598-3438",
+            "open_hours": "9:15",
+            "close_hours": "16:26"
+        }, 
+        {
+            "id": "3896cba3-f700-4190-aa79-08b6ba8cce69",
+            "name_store": "Quitzon, Wisoky and Mayert",
+            "latitude": -7.1186612,
+            "longitude": 112.4716488,
+            "phone": "389-116-3443",
+            "open_hours": "8:20",
+            "close_hours": "16:07"
+        }, 
+        {
+            "id": "2a3e4087-4cbe-4205-952e-c51e74c429d5",
+            "name_store": "Rolfson, Kshlerin and Streich",
+            "latitude": 49.7058855,
+            "longitude": 6.3726286,
+            "phone": "904-773-1754",
+            "open_hours": "8:49",
+            "close_hours": "16:51"
+        }, 
+        {
+            "id": "8c9a896b-ad3d-49b9-83e1-8b0b3bdd9343",
+            "name_store": "Kerluke, Mills and Ullrich",
+            "latitude": 40.7049862,
+            "longitude": 19.6490516,
+            "phone": "162-924-7516",
+            "open_hours": "9:48",
+            "close_hours": "16:35"
+        }, 
+        {
+            "id": "7b1a4c22-f743-4f86-b8bd-8502d4d37873",
+            "name_store": "Kertzmann-Lubowitz",
+            "latitude": 40.767421,
+            "longitude": 73.3030715,
+            "phone": "353-625-3545",
+            "open_hours": "9:56",
+            "close_hours": "16:39"
+        }, 
+        {
+            "id": "38863a99-1a9b-40e1-9572-e3e9a58e61ac",
+            "name_store": "McDermott-Jacobson",
+            "latitude": 44.0562486,
+            "longitude": 17.4498275,
+            "phone": "497-158-9599",
+            "open_hours": "8:05",
+            "close_hours": "16:32"
+        }, 
+        {
+            "id": "9e4bbd44-7abf-4880-bd08-3af1bd82fbd8",
+            "name_store": "Larson Inc",
+            "latitude": 34.718968,
+            "longitude": 110.693663,
+            "phone": "225-803-4348",
+            "open_hours": "8:55",
+            "close_hours": "16:29"
+        }
     ]
-}
+} 
